@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Certification Generation</title>
+    <link rel="stylesheet" href="./css/Certificate.css">
+</head>
+<body>
+    <div class="generator">
+    <h1>Certification Generation</h1>
+    <label class="inp" for="excelFile">Upload Excel File:</label>
+    <input type="file" id="excelFile" accept=".xlsx, .xls">
+    <br>
+    <label class="inp" for="imageFile">Upload Image:</label>
+    <input type="file" id="imageFile" accept=".png, .jpg, .jpeg">
+    <br>
+    <button onclick="generateCertificate()">Generate Certificates</button>
+    <div id="output"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.6.0/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.2/html2canvas.min.js"></script>
+</div>
+    <script src="./js/Certificate.js"></script>
+    
+</body>
+</html>

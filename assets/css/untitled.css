@@ -1,0 +1,49 @@
+.col-dt {
+  padding-top: 55px;
+  padding-right: 12px;
+  padding-bottom: 0px;
+  padding-left: 12px;
+}
+
+#chd-1 {
+  padding-top: 22px;
+  text-align: center;
+  font-family: Lora, serif;
+  --bs-body-font-weight: 600;
+  padding-bottom: 0px;
+}
+
+.col-img {
+  width: 190px;
+  height: 238px;
+  border-width: thin;
+  border-color: #fff;
+}
+
+.col-para-1 {
+  padding-top: 0px;
+}
+
+#col-hd {
+  color: #fff;
+  font-size: 50px;
+}
+
+#contact {
+}
+
+#contact-1 {
+  height: 315px;
+  margin-top: -218px;
+}
+
+@media (min-width: 992px) {
+  #contact-1 {
+  }
+}
+
+#contact-1 {
+  margin-top: 104px;
+  margin-bottom: -205px;
+}
+

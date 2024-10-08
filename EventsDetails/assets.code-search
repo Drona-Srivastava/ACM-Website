@@ -1,0 +1,600 @@
+# Query: assets
+# ContextLines: 1
+
+256 results - 20 files
+
+EventsDetails/ACM 101.html:
+    9      <meta name="" content="">
+   10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+   11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+   12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+   20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+   21:     <link rel="stylesheet" href="assets/css/untitled.css">
+   22  </head>
+
+  359                          <td style="color: rgb(255,255,255);">ACM - W Chapter in a box</td>
+  360:                         <td style="color: rgb(255,255,255);"><a href="#">http://www.acm.org/binaries/content/assets/chapters/chapter-in-a-box_acm-w.pdf</a></td>
+  361                      </tr>
+
+  369                          <td style="color: rgb(255,255,255);">101 ideas for ACM -W</td>
+  370:                         <td style="color: rgb(255,255,255);"><a href="#">https://www.acm.org/binaries/content/assets/chapters/ideas-for-acm-w-chapters.pdf</a></td>
+  371                      </tr>
+
+  540      </section>
+  541:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  542:     <script src="assets/js/bs-init.js"></script>
+  543:     <script src="assets/js/grayscale.js"></script>
+  544  </body>
+
+EventsDetails/acmw.html:
+    9      <meta name="" content="">
+   10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+   11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+   12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+   20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+   21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+   22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+   23:     <link rel="stylesheet" href="assets/css/untitled.css">
+   24  </head>
+
+   39      </nav>
+   40:     <header class="masthead" style="background-image: url('assets/img/intro-bg.jpg');">
+   41          <div class="intro-body">
+
+   73                  </div>
+   74:                 <div class="col-md-12 col-tech" style="margin: 0px;padding-top: 0px;padding-right: 0px;padding-left: 0px;padding-bottom: 55px;color: rgb(225,225,225);background: var(--bs-black);"><img class="rounded bg-primary border border-1 border-secondary shadow-none col-img" src="assets/img/Events/ACM_events_design_preni%20(1).jpg" width="400" height="400" style="height: 400px;width: 400px;"></div>
+   75              </div>
+
+   81              <div class="row">
+   82:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Suganya%20ma%27am.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+   83                      <h4 class="text-center" id="chd-1"><br>Suganya</h4>
+
+   85                  </div>
+   86:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Prenitha%20R%20-%20chair.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+   87                      <h4 class="text-center" id="chd-13"><br>Prenitha R</h4>
+
+   89                  </div>
+   90:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Shalini%20Banerjee%20-%20vice%20chair.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+   91                      <h4 class="text-center" id="chd-14"><br>Shalini Banerjee</h4>
+
+   93                  </div>
+   94:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Bharathi%20R%20-%20secretary.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+   95                      <h4 class="text-center" id="chd-17"><br>Bharathi R</h4>
+
+   97                  </div>
+   98:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Tanvi%20Gajula%20-%20web%20master.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+   99                      <h4 class="text-center" id="chd-15"><br>Tanvi Gajula</h4>
+
+  101                  </div>
+  102:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Panditharadhyula%20Soumya%20-%20design%20head.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  103                      <h4 class="text-center" id="chd-19"><br>Panditharadhyula Soumya</h4>
+
+  105                  </div>
+  106:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Pujala%20Akhila%20-%20membership%20chair.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  107                      <h4 class="text-center" id="chd-21"><br>Pujala Akhila</h4>
+
+  109                  </div>
+  110:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Team-w/Lakshmi%20Priyaa%20Treasurer.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  111                      <h4 class="text-center" id="chd-22"><br>Lakshmi Priya</h4>
+
+  113                  </div>
+  114:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/dharani.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  115                      <h4 class="text-center" id="chd-2"><br>Dhaarani pushpam</h4>
+
+  146      <div class="map-clean"></div>
+  147:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  148:     <script src="assets/js/aos.min.js"></script>
+  149:     <script src="assets/js/bs-init.js"></script>
+  150:     <script src="assets/js/grayscale.js"></script>
+  151  </body>
+
+EventsDetails/android-app-developnment-workshop.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br>ANDROID APP DEVELOPMENT WORKSHOP</h2>
+  31: ⟪ 2055 characters skipped ⟫TfFtFtEMyy3R34IpOSxLD1-9T/view?usp=share_link" target="_blank">Report of the event</a><br><br><img class="img-thumbnail bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/android%20app%20developnment.jpg" width="400" height="400" style="height: 400px;width: 400px;"><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/anime-quiz.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/animate.min.css">
+  24:     <link rel="stylesheet" href="assets/css/untitled.css">
+  25  </head>
+
+  40                              <div class="row align-items-center">
+  41:                                 <div class="col-md-6" style="text-align: center;"><img class="img-thumbnail" data-aos="fade-right" src="assets/img/anime%20quiz.jpeg" style="width: 395px;"></div>
+  42                                  <div class="col-md-6">
+
+  59      </section>
+  60:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  61:     <script src="assets/js/aos.min.js"></script>
+  62:     <script src="assets/js/bs-init.js"></script>
+  63:     <script src="assets/js/grayscale.js"></script>
+  64  </body>
+
+EventsDetails/blind-coding.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/animate.min.css">
+  24:     <link rel="stylesheet" href="assets/css/untitled.css">
+  25  </head>
+
+  40                              <div class="row align-items-center">
+  41:                                 <div class="col-md-6" style="text-align: center;"><img class="img-thumbnail" data-aos="fade-right" src="assets/img/Blind%20coding.jpeg" style="width: 395px;"></div>
+  42                                  <div class="col-md-6">
+
+  61      </section>
+  62:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  63:     <script src="assets/js/aos.min.js"></script>
+  64:     <script src="assets/js/bs-init.js"></script>
+  65:     <script src="assets/js/grayscale.js"></script>
+  66  </body>
+
+EventsDetails/code-golf.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/animate.min.css">
+  24:     <link rel="stylesheet" href="assets/css/untitled.css">
+  25  </head>
+
+  40                              <div class="row align-items-center">
+  41:                                 <div class="col-md-6" style="text-align: center;"><img class="img-thumbnail" data-aos="fade-right" src="assets/img/code%20golf.jpeg" style="width: 395px;"></div>
+  42                                  <div class="col-md-6">
+
+  60      </section>
+  61:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  62:     <script src="assets/js/aos.min.js"></script>
+  63:     <script src="assets/js/bs-init.js"></script>
+  64:     <script src="assets/js/grayscale.js"></script>
+  65  </body>
+
+EventsDetails/coding-contest.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br>coding contest</h2>
+  31: ⟪ 1935 characters skipped ⟫fpfsC2VgsqnG2enhQbnFU-r_-ekzzE/view?usp=share_link" target="_blank">Report of the event:</a><br><br><img class="rounded bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Coding%20contest.jpg" width="400" height="400" style="height: 400px;width: 400px;"><br><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/cyber-security-hackathon.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br><strong><span style="color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) ;">Cyber security hackathon and value added program</span></strong></h2>
+  31: ⟪ 2695 characters skipped ⟫ile/d/186skforlyCe0okeOjvISmODQByJ7c2g3/view?usp=share_link" target="_blank">Report of the event</a><br><br><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/PHOTO-2023-03-26-21-23-39.jpg" width="400" height="400" style="height: 400px;width: 400px;"><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/cyberx.html:
+    9      <meta name="" content="">
+   10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+   11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+   12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+   20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+   21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+   22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+   23:     <link rel="stylesheet" href="assets/css/animate.min.css">
+   24:     <link rel="stylesheet" href="assets/css/untitled.css">
+   25  </head>
+
+   27  <body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="77">
+   28:     <header class="masthead" style="background-image: url('assets/img/asdf.jpg');">
+   29          <div class="intro-body">
+
+   31                  <div class="row">
+   32:                     <div class="col" style="margin-top: 44px;"><img src="assets/img/gcp/vit%20logo.png" style="width: 203px;"></div>
+   33                      <div class="col-lg-8 mx-auto" style="width: 505.992px;">
+
+   37                      </div>
+   38:                     <div class="col" style="margin-top: 41px;"><img src="assets/img/gcp/gcp%20logo.png" style="width: 149px;"></div>
+   39                  </div>
+   40:             </div><a href="https://lugvitc.org" target="_blank"><img src="assets/img/gcp/lug%20(2).png" width="100" height="100" style="width: 100px;height: 100px;padding-right: 0px;margin-left: 0px;margin-right: 14px;"></a><a href="https://vitchennai.acm.org" target="_blank"><img src="assets/img/gcp/IMG-20230326-WA0018-removebg-preview%20(1).png" style="width: 120px;padding-right: 0px;margin-right: -1px;" width="120" height="76"></a><a href="https://alibiglobal.in" target="_blank"><img src="assets/img/gcp/image-removebg-preview%20(5).png" width="160" height="100" style="width: 160px;height: 100px;padding-right: 0px;margin-left: 0px;margin-right: 14px;"></a><a href="https://hackclubvit.github.io" target="_blank"><img src="assets/img/gcp/hc-logo-1.png" style="width: 80px;margin-right: 13px;"></a><a href="https://cyscomvit.com" target="_blank"><img src="assets/img/gcp/cyscom_logo-removebg-preview.png" style="width: 130px;margin-left: -9px;height: 130px;" width="190" height="206"></a><a href="https://vitchennai.acm.org/acmw.html" target="_blank"><img src="assets/img/gcp/acmw-logo.png" style="width: 130px;margin-left: -9px;height: 130px;" width="130" height="130"></a>
+   41          </div>
+
+   97                  </div>
+   98:                 <div class="col-md-12 col-tech" style="margin: 0px;padding-top: 0px;padding-right: 0px;padding-left: 0px;padding-bottom: 55px;color: rgb(225,225,225);background: var(--bs-black);"><img src="assets/img/gcp/poster-gcp.jpeg" width="357" height="520"></div>
+   99              </div>
+
+  138      <div class="map-clean"></div>
+  139:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  140:     <script src="assets/js/aos.min.js"></script>
+  141:     <script src="assets/js/bs-init.js"></script>
+  142:     <script src="assets/js/grayscale.js"></script>
+  143  </body>
+
+EventsDetails/debugging-contest.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br><strong><span style="color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) ;">DEBUGGING CONTEST</span></strong></h2>
+  31: ⟪ 2357 characters skipped ⟫yJVW17oGqTMsIBDC057DJ6oS2/view?usp=share_link" target="_blank">Report of the event</a><br><br><img class="img-thumbnail bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Debugging%20contest.png" width="400" height="400" style="height: 400px;width: 400px;"><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/google-serarch-hunt.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br><strong><span style="color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) ;">GOOGLE SEARCH HUNT</span></strong></h2>
+  31: ⟪ 2209 characters skipped ⟫le/d/1ULx17-LJhzmZeLbgXxxcLBcFmejfrXI1/view?usp=share_link" target="_blank">Report of the event:</a><br><br><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Google%20Search%20hunt.jpg" width="400" height="400" style="height: 400px;width: 400px;"><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/index.html:
+    9      <meta name="" content="">
+   10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+   11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+   12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+   20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+   21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+   22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+   23:     <link rel="stylesheet" href="assets/css/untitled.css">
+   24  </head>
+
+   40      </nav>
+   41:     <header class="masthead" style="background-image: url('assets/img/intro-bg.jpg');">
+   42          <div class="intro-body">
+
+   83                          <div class="carousel-inner">
+   84:                             <div class="carousel-item active"><img class="w-100 d-block" src="assets/img/internship%20insider.jpg" alt="Slide Image"></div>
+   85                          </div>
+
+  109              <div class="row">
+  110:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Web%20Development.jpg" width="190" height="238" style="height: 230px;width: 230px;"><a href="web-development-workshop.html" style="font-style: italic;"><br><br><strong><span style="font-style: normal !important; color: rgb(255, 255, 255);">WEB DEVELOPMENT WORKSHOP AND CONTEST</span></strong></a>
+  111                      <h4 class="text-center" id="chd-11"></h4>
+  112                  </div>
+  113:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/android%20app%20developnment.jpg" width="230" height="230" style="height: 230px;width: 230px;"><a href="android-app-developnment-workshop.html" style="font-style: italic;"><br><br><span style="color: rgb(255, 255, 255);">ANDROID APP DEVELOPNEMT WORKSHOP</span></a></div>
+  114:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary col-img" src="assets/img/portfolio/linux-commands-contest.jpg" width="230" height="230" style="height: 230px;width: 230px;"><a href="linux-command-contest.html" style="font-style: italic;"><br><br><strong><span style="font-style: normal !important; color: rgb(255, 255, 255);">LINUX COMMAND CONTEST</span></strong></a></div>
+  115:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Coding%20contest.jpg" width="190" height="238" style="height: 230px;width: 230px;"><a href="coding-contest.html" style="font-style: italic;"><br><br><strong><span style="font-style: normal !important; color: rgb(255, 255, 255);">CODING CONTEST</span></strong></a></div>
+  116:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Debugging%20contest.png" width="190" height="238" style="height: 230px;width: 230px;"><a href="debugging-contest.html" style="font-style: italic;"><br><br><span style="color: rgb(255, 255, 255);">DEBUGGING CONTEST</span></a></div>
+  117:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Treasure%20Hunt.jpeg" width="190" height="238" style="height: 230px;width: 230px;"><a href="treasure-hunt.html" style="font-style: italic;"><br><br><span style="font-style: normal !important; color: rgb(255, 255, 255);">TREASURE HUNT</span></a></div>
+  118:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/PHOTO-2023-03-26-21-23-39.jpg" width="190" height="238" style="height: 230px;width: 230px;"><a href="cyber-security-hackathon.html" style="font-style: italic;"><br><br><span style="font-style: normal !important; color: rgb(255, 255, 255);">CYBER SECURITY HACKATHON</span></a></div>
+  119:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Google%20Search%20hunt.jpg" width="190" height="238" style="height: 230px;width: 230px;"><a href="google-serarch-hunt.html" style="font-style: italic;"><br><br><strong><span style="font-style: normal !important; color: rgb(255, 255, 255);">GOOGLE SEARCH HUNT</span></strong></a></div>
+  120:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Poster%20design%20event.jpg" width="190" height="238" style="height: 230px;width: 230px;"><a href="poster-design.html" style="font-style: italic;"><br><br><span style="color: rgb(255, 255, 255);">POSTER DESIGN</span></a></div>
+  121:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/poster.jpg" width="190" height="238" style="height: 230px;width: 230px;"><a href="cyberx.html" style="font-style: italic;"><br><br><span style="color: rgb(255, 255, 255);">CyberX</span></a></div>
+  122              </div>
+
+  128              <div class="row">
+  129:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/subbulakshmi.png" width="190" height="238" style="height: 230px;width: 230px;">
+  130                      <h4 class="text-center" id="chd-13"><br>subbulakshmi</h4>
+
+  132                  </div>
+  133:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/josiga.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  134                      <h4 class="text-center" id="chd-13"><br>Josiga</h4>
+
+  136                  </div>
+  137:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/manisha.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  138                      <h4 class="text-center" id="chd-14"><br>manisha</h4>
+
+  140                  </div>
+  141:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/dharani.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  142                      <h4 class="text-center" id="chd-17"><br>Dhaarani pushpam</h4>
+
+  144                  </div>
+  145:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/krishnaprasaad.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  146                      <h4 class="text-center" id="chd-15"><br>krishna prasaad</h4>
+
+  148                  </div>
+  149:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Boopash.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  150                      <h4 class="text-center" id="chd-16"><br>Bhoopesh gupta</h4>
+
+  152                  </div>
+  153:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Zaron.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  154                      <h4 class="text-center" id="chd-18"><br>Zahran sajid</h4>
+
+  156                  </div>
+  157:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/arun.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  158                      <h4 class="text-center" id="chd-19"><br>arun santhosh</h4>
+
+  160                  </div>
+  161:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/dazzel.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  162                      <h4 class="text-center" id="chd-20"><br>Dazzle</h4>
+
+  164                  </div>
+  165:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Janani.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  166                      <h4 class="text-center" id="chd-21"><br>Janani</h4>
+
+  168                  </div>
+  169:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="rounded-circle bg-primary border rounded-pill border-1 border-secondary shadow-none col-img" src="assets/img/Smruthi.jpg" width="190" height="238" style="height: 230px;width: 230px;">
+  170                      <h4 class="text-center" id="chd-22"><br>Smruthi</h4>
+
+  201      <div class="map-clean"></div>
+  202:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  203:     <script src="assets/js/aos.min.js"></script>
+  204:     <script src="assets/js/bs-init.js"></script>
+  205:     <script src="assets/js/grayscale.js"></script>
+  206  </body>
+
+EventsDetails/internship insider.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/animate.min.css">
+  24:     <link rel="stylesheet" href="assets/css/untitled.css">
+  25  </head>
+
+  40                              <div class="row align-items-center">
+  41:                                 <div class="col-md-6" style="text-align: center;"><img class="img-thumbnail" data-aos="fade-right" src="assets/img/internship%20insider.jpg" style="width: 395px;"></div>
+  42                                  <div class="col-md-6">
+
+  63      </section>
+  64:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  65:     <script src="assets/js/aos.min.js"></script>
+  66:     <script src="assets/js/bs-init.js"></script>
+  67:     <script src="assets/js/grayscale.js"></script>
+  68  </body>
+
+EventsDetails/linux-command-contest.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br><strong><span style="color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) ;">LINUX COMMANDS CONTEST</span></strong></h2>
+  31: ⟪ 1857 characters skipped ⟫j5ahPGOWrTasVMeTuubqITNqn9OKTYz/view?usp=share_link" target="_blank">Report of the event</a><br><br><img class="rounded bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/linux-commands-contest.jpg" width="400" height="400" style="height: 400px;width: 400px;"><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/poster-design.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br><strong><span style="color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) ;">POSTER DESING CONTEST</span></strong></h2>
+  31: ⟪ 4267 characters skipped ⟫ile/d/1S2P6qnvbj5qMrr8AfEMX9yGeQd7Q71uH/view?usp=share_link" target="_blank">Report of the event</a><br><br><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Poster%20design%20event.jpg" width="400" height="400" style="height: 400px;width: 400px;"><br><br><br><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/treasure-hunt.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br><strong><span style="color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) ;">TREASURE HUNT</span></strong></h2>
+  31: ⟪ 2673 characters skipped ⟫ile/d/1YHCPqm78GM7gn4dxLKdKZZxdu1bRvaNb/view?usp=share_link" target="_blank">Report of the event</a><br><br><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Treasure%20Hunt.jpeg" width="400" height="400" style="height: 400px;width: 400px;"><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/valoz.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/animate.min.css">
+  24:     <link rel="stylesheet" href="assets/css/untitled.css">
+  25  </head>
+
+  40                              <div class="row align-items-center">
+  41:                                 <div class="col-md-6" style="text-align: center;"><img class="img-thumbnail" data-aos="fade-right" src="assets/img/Valoz.jpeg" style="width: 395px;"></div>
+  42                                  <div class="col-md-6">
+
+  60      </section>
+  61:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  62:     <script src="assets/js/aos.min.js"></script>
+  63:     <script src="assets/js/bs-init.js"></script>
+  64:     <script src="assets/js/grayscale.js"></script>
+  65  </body>
+
+EventsDetails/web-development-workshop.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+  22:     <link rel="stylesheet" href="assets/css/aos.min.css">
+  23:     <link rel="stylesheet" href="assets/css/untitled.css">
+  24  </head>
+
+  30                  <h2 class="text-info"><br><strong><span style="color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) ;">WEB DEVELOPMENT WORKSHOP &amp; CONTEST</span></strong></h2>
+  31: ⟪ 8988 characters skipped ⟫gBytSwlfERMb6kjq2uUyfPNTxyrQlH/view?usp=share_link" target="_blank">Report of the event:</a><br><br><img class="rounded bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/portfolio/Web%20Development.jpg" width="400" height="400" style="height: 400px;width: 400px;text-align: center;"><br><br><br></p>
+  32              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/aos.min.js"></script>
+  49:     <script src="assets/js/bs-init.js"></script>
+  50:     <script src="assets/js/grayscale.js"></script>
+  51  </body>
+
+EventsDetails/web-leaderboard-1.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/css/untitled.css">
+  22  </head>
+
+  32              <div class="row">
+  33:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-1.png" width="230" height="230" style="height: 230px;width: 230px;"></div>
+  34:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-2.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  35:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary col-img" src="assets/img/web-lead-1/quiz-3.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  36:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-4.png" width="190" height="238" style="height: 230px;width: 230px;"><a href="coding-contest.html" style="font-style: italic;"><br><br><br></a></div>
+  37:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-5.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  38:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-6.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  39:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-7.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  40:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-8.png" width="190" height="238" style="height: 230px;width: 230px;"><a href="google-serarch-hunt.html" style="font-style: italic;"><br><br><br></a></div>
+  41                  <div class="col-md-3 col-dt" style="padding-top: 55px;"><a href="poster-design.html" style="font-style: italic;"><br><br><br></a></div>
+  42:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-9.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  43:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-1/quiz-10.png" width="190" height="238" style="height: 230px;width: 230px;"><a href="poster-design.html" style="font-style: italic;"><br><br><br></a></div>
+  44              </div>
+
+  46      </section>
+  47:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  48:     <script src="assets/js/bs-init.js"></script>
+  49:     <script src="assets/js/grayscale.js"></script>
+  50  </body>
+
+EventsDetails/web-leaderboard-2.html:
+   9      <meta name="" content="">
+  10:     <link rel="icon" type="image/jpeg" sizes="130x130" href="assets/img/acmfavicon.jpg">
+  11:     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  12      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;display=swap">
+
+  20      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran&amp;display=swap">
+  21:     <link rel="stylesheet" href="assets/css/untitled.css">
+  22  </head>
+
+  32              <div class="row">
+  33:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-1.png" width="230" height="230" style="height: 230px;width: 230px;"></div>
+  34:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-2.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  35:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary col-img" src="assets/img/web-lead-2/quiz-3.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  36:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-4.png" width="190" height="238" style="height: 230px;width: 230px;"><a href="coding-contest.html" style="font-style: italic;"><br><br><br></a></div>
+  37:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-5.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  38:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-6.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  39:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-7.png" width="190" height="238" style="height: 230px;width: 230px;"></div>
+  40:                 <div class="col-md-3 col-dt" style="padding-top: 55px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-8.png" width="190" height="238" style="height: 230px;width: 230px;"><a href="google-serarch-hunt.html" style="font-style: italic;"><br><br><br></a></div>
+  41:                 <div class="col-md-3 col-dt" style="padding-top: 55px;margin-right: 246px;"><img class="bg-primary border rounded-0 border-1 border-secondary shadow-none col-img" src="assets/img/web-lead-2/quiz-9.png" width="230" height="230" style="height: 230px;width: 230px;"><a href="poster-design.html" style="font-style: italic;"><br><br><br></a></div>
+  42              </div>
+
+  44      </section>
+  45:     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  46:     <script src="assets/js/bs-init.js"></script>
+  47:     <script src="assets/js/grayscale.js"></script>
+  48  </body>
